@@ -9,7 +9,9 @@ content:
     - url: https://github.com/HHU-Ordnungen/Satzung.git
       start_path: geschaeftsordnung
     - url: https://github.com/HHU-Ordnungen/Satzung.git
-      start_path: satzung
+      start_path: satzung-v1
+    - url: https://github.com/HHU-Ordnungen/Satzung.git
+      start_path: satzung-v2
     - url: https://github.com/HHU-Ordnungen/Satzung.git
       start_path: wahlordnung
 ui:
