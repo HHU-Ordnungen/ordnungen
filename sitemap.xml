@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://hhu-ordnungen.github.io/ordnungen/ordnungen/3/Geschäftsordnung/index.html</loc>
-<lastmod>2023-09-01T18:56:52.907Z</lastmod>
-</url>
-<url>
-<loc>https://hhu-ordnungen.github.io/ordnungen/ordnungen/3/index.html</loc>
-<lastmod>2023-09-01T18:56:52.907Z</lastmod>
-</url>
-<url>
-<loc>https://hhu-ordnungen.github.io/ordnungen/ordnungen/3/satzung/satzung.html</loc>
-<lastmod>2023-09-01T18:56:52.907Z</lastmod>
-</url>
-<url>
-<loc>https://hhu-ordnungen.github.io/ordnungen/ordnungen/3/wahlordnung/index.html</loc>
-<lastmod>2023-09-01T18:56:52.907Z</lastmod>
-</url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<sitemap>
+<loc>https://hhu-ordnungen.github.io/ordnungen/sitemap-geschaeftsordnung.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://hhu-ordnungen.github.io/ordnungen/sitemap-satzung.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://hhu-ordnungen.github.io/ordnungen/sitemap-startseite.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://hhu-ordnungen.github.io/ordnungen/sitemap-wahlordnung.xml</loc>
+</sitemap>
+</sitemapindex>
