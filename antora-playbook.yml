@@ -5,6 +5,7 @@ site:
 content:
   sources:
     - url: https://github.com/HHU-Ordnungen/Satzung.git
+      start_path: Satzung.adoc
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
