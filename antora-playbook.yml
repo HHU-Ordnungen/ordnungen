@@ -1,10 +1,17 @@
 site:
   title: Ordnungen der HHU
   url: https://hhu-ordnungen.github.io/ordnungen/
-  start_page: Satzung::Satzung.adoc
+  start_page: startseite::index.adoc
 content:
   sources:
     - url: https://github.com/HHU-Ordnungen/Satzung.git
+      start_path: startseite
+    - url: https://github.com/HHU-Ordnungen/Satzung.git
+      start_path: geschaeftsordnung
+    - url: https://github.com/HHU-Ordnungen/Satzung.git
+      start_path: satzung
+    - url: https://github.com/HHU-Ordnungen/Satzung.git
+      start_path: wahlordnung
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
