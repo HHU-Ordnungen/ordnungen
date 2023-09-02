@@ -15,4 +15,7 @@
 <sitemap>
 <loc>https://hhu-ordnungen.github.io/ordnungen/sitemap-wahlordnung.xml</loc>
 </sitemap>
+<sitemap>
+<loc>https://hhu-ordnungen.github.io/ordnungen/sitemap-zuordnungsordnung.xml</loc>
+</sitemap>
 </sitemapindex>
