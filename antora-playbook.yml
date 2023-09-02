@@ -7,7 +7,9 @@ content:
     - url: https://github.com/HHU-Ordnungen/Satzung.git
       start_path: startseite
     - url: https://github.com/HHU-Ordnungen/Satzung.git
-      start_path: geschaeftsordnung
+      start_path: geschaeftsordnungfs
+    - url: https://github.com/HHU-Ordnungen/Satzung.git
+      start_path: geschaeftsordnungsp
     - url: https://github.com/HHU-Ordnungen/Satzung.git
       start_path: urabstimmungsordnung
     - url: https://github.com/HHU-Ordnungen/Satzung.git
