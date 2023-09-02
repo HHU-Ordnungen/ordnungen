@@ -5,47 +5,36 @@ site:
 content:
   sources:
     - url: https://github.com/HHU-Ordnungen/Satzung.git
-      start_path: startseite
-    - url: https://github.com/HHU-Ordnungen/Satzung.git
-      start_path: geschaeftsordnung-fs
-    - url: https://github.com/HHU-Ordnungen/Satzung.git
-      start_path: geschaeftsordnung-sp
-    - url: https://github.com/HHU-Ordnungen/Satzung.git
-      start_path: geschaeftsordnung-fsvk
-    - url: https://github.com/HHU-Ordnungen/Satzung.git
-      start_path: urabstimmungsordnung
-    - url: https://github.com/HHU-Ordnungen/Satzung.git
-      start_path: reisekostenrichtlinie
-    - url: https://github.com/HHU-Ordnungen/Satzung.git
-      start_path: satzung-v0
-    - url: https://github.com/HHU-Ordnungen/Satzung.git
-      start_path: satzung-v1
-    - url: https://github.com/HHU-Ordnungen/Satzung.git
-      start_path: satzung-v2
-    - url: https://github.com/HHU-Ordnungen/Satzung.git
-      start_path: satzung-v3
-    - url: https://github.com/HHU-Ordnungen/Satzung.git
-      start_path: wahlordnung-v0
-    - url: https://github.com/HHU-Ordnungen/Satzung.git
-      start_path: wahlordnung-v1
-    - url: https://github.com/HHU-Ordnungen/Satzung.git
-      start_path: wahlordnung-v2
-    - url: https://github.com/HHU-Ordnungen/Satzung.git
-      start_path: wahlordnung-v3
-    - url: https://github.com/HHU-Ordnungen/Satzung.git
-      start_path: wahlordnung-v4
-    - url: https://github.com/HHU-Ordnungen/Satzung.git
-      start_path: wahlordnung-v5
-    - url: https://github.com/HHU-Ordnungen/Satzung.git
-      start_path: wahlordnung-v6
-    - url: https://github.com/HHU-Ordnungen/Satzung.git
-      start_path: wahlordnung-v7
-    - url: https://github.com/HHU-Ordnungen/Satzung.git
-      start_path: wahlordnung-v8
-    - url: https://github.com/HHU-Ordnungen/Satzung.git
-      start_path: zuordnungsordnung-v0
-    - url: https://github.com/HHU-Ordnungen/Satzung.git
-      start_path: zuordnungsordnung-v1
+      start_path: 
+      - startseite
+      - beitragsordnung-v0
+      - beitragsordnung-v1
+      - beitragsordnung-v2
+      - beitragsordnung-v3
+      - beitragsordnung-v4
+      - beitragsordnung-v5
+      - beitragsordnung-v6
+      - darlehensordnung
+      - geschaeftsordnung-fs
+      - geschaeftsordnung-sp
+      - geschaeftsordnung-fsvk
+      - urabstimmungsordnung
+      - reisekostenrichtlinie
+      - satzung-v0
+      - satzung-v1
+      - satzung-v2
+      - satzung-v3
+      - wahlordnung-v0
+      - wahlordnung-v1
+      - wahlordnung-v2
+      - wahlordnung-v3
+      - wahlordnung-v4
+      - wahlordnung-v5
+      - wahlordnung-v6
+      - wahlordnung-v7
+      - wahlordnung-v8
+      - zuordnungsordnung-v0
+      - zuordnungsordnung-v1
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
