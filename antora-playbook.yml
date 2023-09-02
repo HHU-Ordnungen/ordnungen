@@ -11,6 +11,8 @@ content:
     - url: https://github.com/HHU-Ordnungen/Satzung.git
       start_path: geschaeftsordnung-sp
     - url: https://github.com/HHU-Ordnungen/Satzung.git
+      start_path: geschaeftsordnung-fsvk
+    - url: https://github.com/HHU-Ordnungen/Satzung.git
       start_path: urabstimmungsordnung
     - url: https://github.com/HHU-Ordnungen/Satzung.git
       start_path: reisekostenrichtlinie
