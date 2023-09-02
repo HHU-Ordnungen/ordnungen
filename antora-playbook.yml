@@ -20,6 +20,10 @@ content:
       start_path: satzung-v3
     - url: https://github.com/HHU-Ordnungen/Satzung.git
       start_path: wahlordnung
+    - url: https://github.com/HHU-Ordnungen/Satzung.git
+      start_path: zuordnungsordnung-v0
+    - url: https://github.com/HHU-Ordnungen/Satzung.git
+      start_path: zuordnungsordnung-v1
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
