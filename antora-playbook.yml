@@ -24,4 +24,5 @@ ui:
 
 antora:
   extensions:
-  - '@antora/lunr-extension'
+  - require: '@antora/lunr-extension'
+    index_latest_only: true
