@@ -9,6 +9,8 @@ content:
     - url: https://github.com/HHU-Ordnungen/Satzung.git
       start_path: geschaeftsordnung
     - url: https://github.com/HHU-Ordnungen/Satzung.git
+      start_path: urabstimmungsordnung
+    - url: https://github.com/HHU-Ordnungen/Satzung.git
       start_path: reisekostenrichtlinie
     - url: https://github.com/HHU-Ordnungen/Satzung.git
       start_path: satzung-v0
