@@ -1,4 +1,4 @@
-name: Antora Test Site 
+name: Generate Pages
 
 on:
   push:
