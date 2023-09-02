@@ -19,7 +19,23 @@ content:
     - url: https://github.com/HHU-Ordnungen/Satzung.git
       start_path: satzung-v3
     - url: https://github.com/HHU-Ordnungen/Satzung.git
-      start_path: wahlordnung
+      start_path: wahlordnung-v0
+    - url: https://github.com/HHU-Ordnungen/Satzung.git
+      start_path: wahlordnung-v1
+    - url: https://github.com/HHU-Ordnungen/Satzung.git
+      start_path: wahlordnung-v2
+    - url: https://github.com/HHU-Ordnungen/Satzung.git
+      start_path: wahlordnung-v3
+    - url: https://github.com/HHU-Ordnungen/Satzung.git
+      start_path: wahlordnung-v4
+    - url: https://github.com/HHU-Ordnungen/Satzung.git
+      start_path: wahlordnung-v5
+    - url: https://github.com/HHU-Ordnungen/Satzung.git
+      start_path: wahlordnung-v6
+    - url: https://github.com/HHU-Ordnungen/Satzung.git
+      start_path: wahlordnung-v7
+    - url: https://github.com/HHU-Ordnungen/Satzung.git
+      start_path: wahlordnung-v8
     - url: https://github.com/HHU-Ordnungen/Satzung.git
       start_path: zuordnungsordnung-v0
     - url: https://github.com/HHU-Ordnungen/Satzung.git
