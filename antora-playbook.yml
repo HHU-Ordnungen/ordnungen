@@ -7,16 +7,16 @@ content:
     - url: https://github.com/HHU-Ordnungen/Satzung.git
       start_paths: 
       - startseite
-      - beitragsordnung/v*
+      - beitragsordnung/*
       - darlehensordnung
       - geschaeftsordnung-fs
       - geschaeftsordnung-sp
       - geschaeftsordnung-fsvk
       - urabstimmungsordnung
       - reisekostenrichtlinie
-      - satzung/v*
-      - wahlordnung/v*
-      - zuordnungsordnung/v*
+      - satzung/*
+      - wahlordnung/*
+      - zuordnungsordnung/*
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
