@@ -8,7 +8,7 @@ content:
       start_paths: 
       - startseite
       - beitragsordnung/*
-      - darlehensordnung
+      - darlehensordnung/*
       - geschaeftsordnung-fs
       - geschaeftsordnung-sp
       - geschaeftsordnung-fsvk
