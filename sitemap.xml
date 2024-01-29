@@ -7,6 +7,9 @@
 <loc>https://hhu-ordnungen.github.io/ordnungen/sitemap-darlehensordnung.xml</loc>
 </sitemap>
 <sitemap>
+<loc>https://hhu-ordnungen.github.io/ordnungen/sitemap-fachbereichsordnung-mnf.xml</loc>
+</sitemap>
+<sitemap>
 <loc>https://hhu-ordnungen.github.io/ordnungen/sitemap-geschaeftsordnungfs.xml</loc>
 </sitemap>
 <sitemap>
@@ -14,6 +17,9 @@
 </sitemap>
 <sitemap>
 <loc>https://hhu-ordnungen.github.io/ordnungen/sitemap-geschaeftsordnungsp.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://hhu-ordnungen.github.io/ordnungen/sitemap-grundordnung.xml</loc>
 </sitemap>
 <sitemap>
 <loc>https://hhu-ordnungen.github.io/ordnungen/sitemap-reisekostenrichtlinie.xml</loc>
