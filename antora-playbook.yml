@@ -19,6 +19,7 @@ content:
       - zuordnungsordnung/*
       - fachbereichsordnung-mnf/*
       - grundordnung/*
+      - geschaeftsordnung-mnf
 
 ui:
   bundle:
