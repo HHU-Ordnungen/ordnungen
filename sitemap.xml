@@ -6,4 +6,7 @@
 <sitemap>
 <loc>https://hhu-ordnungen.github.io/ordnungen/sitemap-util.xml</loc>
 </sitemap>
+<sitemap>
+<loc>https://hhu-ordnungen.github.io/ordnungen/sitemap-wahlordnung.xml</loc>
+</sitemap>
 </sitemapindex>
