@@ -9,7 +9,6 @@ content:
     #  branches: main
     #  start_paths: 
     #  - urabstimmungsordnung
-    #  - reisekostenrichtlinie
     #  - satzung/*
     #  - zuordnungsordnung/*
     - url: https://github.com/HHU-Ordnungen/Reisekostenrichtlinie.git
