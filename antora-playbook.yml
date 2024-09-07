@@ -8,7 +8,6 @@ content:
     #- url: https://github.com/HHU-Ordnungen/Satzung.git
     #  branches: main
     #  start_paths: 
-    #  - geschaeftsordnung-sp
     #  - urabstimmungsordnung
     #  - reisekostenrichtlinie
     #  - satzung/*
