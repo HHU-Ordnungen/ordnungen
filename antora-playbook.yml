@@ -8,9 +8,9 @@ content:
     #- url: https://github.com/HHU-Ordnungen/Satzung.git
     #  branches: main
     #  start_paths: 
-    #  - urabstimmungsordnung
     #  - satzung/*
     #  - zuordnungsordnung/*
+    - url: https://github.com/HHU-Ordnungen/urabstimmungsordnung.git
     - url: https://github.com/HHU-Ordnungen/Reisekostenrichtlinie.git
     - url: https://github.com/HHU-Ordnungen/Grundordnung.git
     - url: https://github.com/HHU-Ordnungen/Geschaeftsordnungsp.git
