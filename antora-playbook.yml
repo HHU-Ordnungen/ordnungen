@@ -9,13 +9,13 @@ content:
     #  branches: main
     #  start_paths: 
     #  - geschaeftsordnung-sp
-    #  - geschaeftsordnung-fsvk
     #  - urabstimmungsordnung
     #  - reisekostenrichtlinie
     #  - satzung/*
     #  - zuordnungsordnung/*
     #  - grundordnung/*
     #  - geschaeftsordnung-mnf
+    - url: https://github.com/HHU-Ordnungen/Geschaeftsordnung-fsvk.git
     - url: https://github.com/HHU-Ordnungen/Geschaeftsordnungfs.git
     - url: https://github.com/HHU-Ordnungen/Fachbereichsordnung-mnf.git
     - url: https://github.com/HHU-Ordnungen/Darlehensordnung.git
