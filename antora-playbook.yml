@@ -6,6 +6,7 @@ content:
   branches: v*
   sources:
     - url: https://github.com/HHU-Ordnungen/Satzung.git
+      branches: main
       start_paths: 
       - startseite
       - darlehensordnung/*
