@@ -22,7 +22,6 @@ content:
     #  - grundordnung/*
     #  - geschaeftsordnung-mnf
     - url: https://github.com/HHU-Ordnungen/Beitragsordnung.git
-      start_paths: .
 
 
 
