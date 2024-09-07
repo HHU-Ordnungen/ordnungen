@@ -8,7 +8,6 @@ content:
     #- url: https://github.com/HHU-Ordnungen/Satzung.git
     #  branches: main
     #  start_paths: 
-    #  - geschaeftsordnung-fs
     #  - geschaeftsordnung-sp
     #  - geschaeftsordnung-fsvk
     #  - urabstimmungsordnung
@@ -17,6 +16,7 @@ content:
     #  - zuordnungsordnung/*
     #  - grundordnung/*
     #  - geschaeftsordnung-mnf
+    - url: https://github.com/HHU-Ordnungen/Geschaeftsordnung-fs.git
     - url: https://github.com/HHU-Ordnungen/Fachbereichsordnung-mnf.git
     - url: https://github.com/HHU-Ordnungen/Darlehensordnung.git
     - url: https://github.com/HHU-Ordnungen/Wahlordnung.git
