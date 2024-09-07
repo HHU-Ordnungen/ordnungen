@@ -3,11 +3,11 @@ site:
   url: https://hhu-ordnungen.github.io/ordnungen/
   start_page: startseite::index.adoc
 content:
+  branches: v*
   sources:
     - url: https://github.com/HHU-Ordnungen/Satzung.git
       start_paths: 
       - startseite
-      - beitragsordnung/*
       - darlehensordnung/*
       - geschaeftsordnung-fs
       - geschaeftsordnung-sp
@@ -20,6 +20,9 @@ content:
       - fachbereichsordnung-mnf/*
       - grundordnung/*
       - geschaeftsordnung-mnf
+    - url: https://github.com/HHU-Ordnungen/Beitragsordnung.git
+
+
 
 ui:
   bundle:
