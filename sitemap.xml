@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://hhu-ordnungen.github.io/ordnungen/beitragsordnung/0/index.html</loc>
-<lastmod>2024-09-07T20:30:16.870Z</lastmod>
-</url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<sitemap>
+<loc>https://hhu-ordnungen.github.io/ordnungen/sitemap-beitragsordnung.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://hhu-ordnungen.github.io/ordnungen/sitemap-util.xml</loc>
+</sitemap>
+</sitemapindex>
