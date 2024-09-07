@@ -23,7 +23,7 @@ content:
     #  - geschaeftsordnung-mnf
     - url: https://github.com/HHU-Ordnungen/Beitragsordnung.git
     - url: https://github.com/HHU-Ordnungen/Util.git
-      branch: main
+      branches: [ 'main' ]
 
 
 
