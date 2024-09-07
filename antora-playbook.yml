@@ -12,6 +12,7 @@ content:
     #  - reisekostenrichtlinie
     #  - satzung/*
     #  - zuordnungsordnung/*
+    - url: https://github.com/HHU-Ordnungen/Reisekostenrichtlinie.git
     - url: https://github.com/HHU-Ordnungen/Grundordnung.git
     - url: https://github.com/HHU-Ordnungen/Geschaeftsordnungsp.git
     - url: https://github.com/HHU-Ordnungen/Geschaeftsordnung-fsvk.git
