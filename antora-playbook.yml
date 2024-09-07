@@ -1,7 +1,7 @@
 site:
   title: Ordnungen der HHU
   url: https://hhu-ordnungen.github.io/ordnungen/
-  start_page: util::index.adoc
+  start_page: util:ROOT:index.adoc
 content:
   branches: v*
   sources:
