@@ -5,22 +5,22 @@ site:
 content:
   branches: v*
   sources:
-    - url: https://github.com/HHU-Ordnungen/Satzung.git
-      branches: main
-      start_paths: 
-      - startseite
-      - darlehensordnung/*
-      - geschaeftsordnung-fs
-      - geschaeftsordnung-sp
-      - geschaeftsordnung-fsvk
-      - urabstimmungsordnung
-      - reisekostenrichtlinie
-      - satzung/*
-      - wahlordnung/*
-      - zuordnungsordnung/*
-      - fachbereichsordnung-mnf/*
-      - grundordnung/*
-      - geschaeftsordnung-mnf
+    #- url: https://github.com/HHU-Ordnungen/Satzung.git
+    #  branches: main
+    #  start_paths: 
+    #  - startseite
+    #  - darlehensordnung/*
+    #  - geschaeftsordnung-fs
+    #  - geschaeftsordnung-sp
+    #  - geschaeftsordnung-fsvk
+    #  - urabstimmungsordnung
+    #  - reisekostenrichtlinie
+    #  - satzung/*
+    #  - wahlordnung/*
+    #  - zuordnungsordnung/*
+    #  - fachbereichsordnung-mnf/*
+    #  - grundordnung/*
+    #  - geschaeftsordnung-mnf
     - url: https://github.com/HHU-Ordnungen/Beitragsordnung.git
 
 
