@@ -16,7 +16,7 @@ content:
     #  - zuordnungsordnung/*
     #  - grundordnung/*
     #  - geschaeftsordnung-mnf
-    - url: https://github.com/HHU-Ordnungen/Geschaeftsordnung-fs.git
+    - url: https://github.com/HHU-Ordnungen/Geschaeftsordnungfs.git
     - url: https://github.com/HHU-Ordnungen/Fachbereichsordnung-mnf.git
     - url: https://github.com/HHU-Ordnungen/Darlehensordnung.git
     - url: https://github.com/HHU-Ordnungen/Wahlordnung.git
