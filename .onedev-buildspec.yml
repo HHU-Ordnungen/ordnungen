@@ -1,0 +1,28 @@
+version: 39
+jobs:
+- name: Pull from Github
+  steps:
+  - !PullRepository
+    name: Pull from Github
+    remoteUrl: https://github.com/@project_path@.git
+    passwordSecret: github-sync-token
+    refs: refs/heads/* refs/tags/*
+    withLfs: true
+    force: true
+    condition: ALL_PREVIOUS_STEPS_WERE_SUCCESSFUL
+  retryCondition: never
+  maxRetries: 3
+  retryDelay: 30
+  timeout: 14400
+- name: Push to Github
+  steps:
+  - !PushRepository
+    name: Push to Github
+    remoteUrl: https://github.com/@project_path@.git
+    passwordSecret: github-sync-token
+    force: false
+    condition: ALL_PREVIOUS_STEPS_WERE_SUCCESSFUL
+  retryCondition: never
+  maxRetries: 3
+  retryDelay: 30
+  timeout: 14400
