@@ -3,7 +3,7 @@ site:
   url: https://hhu-ordnungen.github.io/ordnungen/
   start_page: util:ROOT:index.adoc
 content:
-   branches: [ v* ]
+  branches: [ v* ]
   sources:
   - url: https://github.com/HHU-Ordnungen/Satzung.git
   - url: https://github.com/HHU-Ordnungen/Zuordnungsordnung.git
