@@ -3,20 +3,31 @@ site:
   url: https://hhu-ordnungen.github.io/ordnungen/
   start_page: util:ROOT:index.adoc
 content:
-  branches: v*
   sources:
   - url: https://github.com/HHU-Ordnungen/Satzung.git
+  branches: v*
   - url: https://github.com/HHU-Ordnungen/Zuordnungsordnung.git
+  branches: v*
   - url: https://github.com/HHU-Ordnungen/urabstimmungsordnung.git
+  branches: v*
   - url: https://github.com/HHU-Ordnungen/Reisekostenrichtlinie.git
+  branches: v*
   - url: https://github.com/HHU-Ordnungen/Grundordnung.git
+  branches: v*
   - url: https://github.com/HHU-Ordnungen/Geschaeftsordnungsp.git
+  branches: v*
   - url: https://github.com/HHU-Ordnungen/Geschaeftsordnungfsvk.git
+  branches: v*
   - url: https://github.com/HHU-Ordnungen/Geschaeftsordnungfs.git
+  branches: v*
   - url: https://github.com/HHU-Ordnungen/Fachbereichsordnung-mnf.git
+  branches: v*
   - url: https://github.com/HHU-Ordnungen/Darlehensordnung.git
+  branches: v*
   - url: https://github.com/HHU-Ordnungen/Wahlordnung.git
+  branches: v*
   - url: https://github.com/HHU-Ordnungen/Beitragsordnung.git
+  branches: v*
   - url: https://github.com/HHU-Ordnungen/Util.git
     branches: [ 'main' ]
 
