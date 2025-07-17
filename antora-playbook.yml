@@ -5,20 +5,20 @@ site:
 content:
   branches: v*
   sources:
-    - url: https://github.com/HHU-Ordnungen/Satzung.git
-    - url: https://github.com/HHU-Ordnungen/Zuordnungsordnung.git
-    - url: https://github.com/HHU-Ordnungen/urabstimmungsordnung.git
-    - url: https://github.com/HHU-Ordnungen/Reisekostenrichtlinie.git
-    - url: https://github.com/HHU-Ordnungen/Grundordnung.git
-    - url: https://github.com/HHU-Ordnungen/Geschaeftsordnungsp.git
-    - url: https://github.com/HHU-Ordnungen/Geschaeftsordnungfsvk.git
-    - url: https://github.com/HHU-Ordnungen/Geschaeftsordnungfs.git
-    - url: https://github.com/HHU-Ordnungen/Fachbereichsordnung-mnf.git
-    - url: https://github.com/HHU-Ordnungen/Darlehensordnung.git
-    - url: https://github.com/HHU-Ordnungen/Wahlordnung.git
-    - url: https://github.com/HHU-Ordnungen/Beitragsordnung.git
-    - url: https://github.com/HHU-Ordnungen/Util.git
-      branches: [ 'main' ]
+  - url: https://github.com/HHU-Ordnungen/Satzung.git
+  - url: https://github.com/HHU-Ordnungen/Zuordnungsordnung.git
+  - url: https://github.com/HHU-Ordnungen/urabstimmungsordnung.git
+  - url: https://github.com/HHU-Ordnungen/Reisekostenrichtlinie.git
+  - url: https://github.com/HHU-Ordnungen/Grundordnung.git
+  - url: https://github.com/HHU-Ordnungen/Geschaeftsordnungsp.git
+  - url: https://github.com/HHU-Ordnungen/Geschaeftsordnungfsvk.git
+  - url: https://github.com/HHU-Ordnungen/Geschaeftsordnungfs.git
+  - url: https://github.com/HHU-Ordnungen/Fachbereichsordnung-mnf.git
+  - url: https://github.com/HHU-Ordnungen/Darlehensordnung.git
+  - url: https://github.com/HHU-Ordnungen/Wahlordnung.git
+  - url: https://github.com/HHU-Ordnungen/Beitragsordnung.git
+  - url: https://github.com/HHU-Ordnungen/Util.git
+    branches: [ 'main' ]
 
 
 
