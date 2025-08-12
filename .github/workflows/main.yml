@@ -3,7 +3,7 @@ name: Generate Pages
 on:
   push:
     branches: 
-      - master
+      - main
   workflow_dispatch:
 
   # Allows external webhook trigger
