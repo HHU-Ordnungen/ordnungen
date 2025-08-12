@@ -14,8 +14,8 @@ content:
     branches: [ v* ]
   - url: https://github.com/HHU-Ordnungen/Grundordnung.git
     branches: [ v* ]
-  - url: https://github.com/HHU-Ordnungen/Geschaeftsordnungsp.git
-    branches: [ v* ]
+  #- url: https://github.com/HHU-Ordnungen/Geschaeftsordnungsp.git
+  #  branches: [ v* ]
   - url: https://github.com/HHU-Ordnungen/Geschaeftsordnungfsvk.git
     branches: [ v* ]
   - url: https://github.com/HHU-Ordnungen/Geschaeftsordnungfs.git
